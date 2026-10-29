@@ -1,7 +1,7 @@
 {
   "name": "movil-cripto",
   "version": "1.0.0",
-  "main": "expo-router/entry",
+  "main": "expo/AppEntry.js",
   "dependencies": {
     "@expo/ui": "~58.0.25",
     "expo": "~58.0.21",
